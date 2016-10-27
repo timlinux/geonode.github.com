@@ -4,6 +4,16 @@
         {
             "geometry": {
                 "type": "Point", 
+                "coordinates": [18.84020,-33.96538]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "<a target=\"_blank\" href=\"http://kartoza.com\">Kartoza</a>"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point", 
                 "coordinates": [-117.1, 32.7]
             }, 
             "type": "Feature", 
